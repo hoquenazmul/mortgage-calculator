@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+/target/
+/lib/
